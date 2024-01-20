@@ -1,0 +1,9 @@
+# Ignore everything
+*
+
+# But allow directories to be tracked
+!*/
+
+# Allow specific files
+!.gitignore
+!otherfile.txt
